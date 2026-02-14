@@ -1,74 +1,92 @@
+
 <div align="center">
+  <a href="https://www.linkedin.com/in/taha-amine-er-rafiy-30b103251">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:errafiytahaamine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-# Taha Amine Er-Rafiy
+<br>
 
-**Data & AI Engineering Student**
+<div align="center">
+  <h1>Taha Amine Er-Rafiy</h1>
+  <p><strong>Data & AI Engineering Student</strong></p>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Full+Stack+Developer+%7C+Big+Data;Building+intelligent+systems)](https://git.io/typing-svg)
-
----
-
-`Morocco` · `Data & AI` · `OCI Gen AI Certified`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-amine-er-rafiy-30b103251)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:errafiytahaamine@gmail.com)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+RAG;Full+Stack+Developer+%7C+Big+Data+Enthusiast;OCI+Generative+AI+Certified" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### About
+### hey there
 
-I'm a Data & AI engineering student focused on building intelligent systems.
-Currently exploring Machine Learning, Deep Learning, and Large Language Models.
-I enjoy bridging the gap between software engineering and AI.
+I'm a Data & AI engineering student from **Morocco**, passionate about building intelligent systems and solving real-world problems with data.
 
----
+I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**, and **Large Language Models**, while strengthening my software engineering foundations. My goal is to become an AI/ML Engineer and contribute to impactful AI projects.
 
-### Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Web**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Data & AI**
-
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![DL](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-**Tools**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Working on AI-powered applications and data pipelines
+- Exploring the intersection of software engineering and AI
+- Certified **Oracle Cloud Infrastructure Generative AI Professional**
+- Always learning, always building
 
 ---
+
+### Languages and Tools
+
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,python,c,php,html,css,js,nodejs&theme=dark" alt="Languages"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,linux,vscode&theme=dark" alt="Tools"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-007396?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Doomed2Fail&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=8b949e&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doomed2Fail&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9&langs_count=6" alt="Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Doomed2Fail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Doomed2Fail&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak"/>
 </div>
 
----
+<br>
 
 <div align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doomed2Fail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</div>
 
-![Views](https://komarev.com/ghpvc/?username=Doomed2Fail&color=333&style=flat-square&label=profile+views)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doomed2Fail&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Doomed2Fail&color=1f6feb&style=flat-square&label=Profile+Views" alt="Views"/>
 </div>
