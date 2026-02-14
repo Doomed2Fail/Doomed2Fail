@@ -69,17 +69,17 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 ### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Doomed2Fail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Doomed2Fail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Doomed2Fail&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doomed2Fail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doomed2Fail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doomed2Fail&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity"/>
