@@ -66,6 +66,12 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doomed2Fail&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity"/>
+</div>
+
+---
+
 ### Popular Repositories
 
 <div align="center">
@@ -92,11 +98,7 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
   <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doomed2Fail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doomed2Fail&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity"/>
-</div>
 
 <br>
 
