@@ -36,12 +36,6 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 
 ---
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/1f6feb/Doomed2Fail" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
 ### Languages and Tools
 
 <div align="center">
@@ -68,12 +62,6 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
   <img src="https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/UML-007396?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doomed2Fail&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity"/>
 </div>
 
 ---
@@ -105,8 +93,6 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 </div>
 
 
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Doomed2Fail&color=1f6feb&style=flat-square&label=Profile+Views" alt="Views"/>
