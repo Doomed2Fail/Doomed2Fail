@@ -36,6 +36,12 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 
 ---
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/1f6feb/Doomed2Fail" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
 ### Languages and Tools
 
 <div align="center">
