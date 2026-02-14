@@ -64,7 +64,7 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### GitHub Stats
 
