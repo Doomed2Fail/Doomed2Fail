@@ -12,12 +12,12 @@
 
 <div align="center">
   <h1>Taha Amine Er-Rafiy</h1>
-  <p><strong>Data & AI Engineering Student</strong></p>
+  <p><strong>Data & AI Enthusiast | Building with ML, DL & LLMs</strong></p>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+RAG;Full+Stack+Developer+%7C+Big+Data+Enthusiast;OCI+Generative+AI+Certified" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+RAG;Big+Data+%7C+AI+Applications;OCI+Generative+AI+Certified" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ### hey there
 
-I'm a Data & AI engineering student from **Morocco**, passionate about building intelligent systems and solving real-world problems with data.
+I'm a Data & AI student passionate about building intelligent systems and solving real-world problems with data.
 
 I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**, and **Large Language Models**, while strengthening my software engineering foundations. My goal is to become an AI/ML Engineer and contribute to impactful AI projects.
 
