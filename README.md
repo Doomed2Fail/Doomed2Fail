@@ -66,22 +66,6 @@ I'm currently diving deep into **Machine Learning**, **Deep Learning**, **RAG**,
 
 ---
 
-### Popular Repositories
-
-<div align="center">
-  <a href="https://github.com/Doomed2Fail/ML-DL-Lab">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Doomed2Fail&repo=ML-DL-Lab&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="ML-DL-Lab"/>
-  </a>
-  <a href="https://github.com/Doomed2Fail/mini-casino">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Doomed2Fail&repo=mini-casino&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="mini-casino"/>
-  </a>
-  <a href="https://github.com/Doomed2Fail/App-Data-Structure">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Doomed2Fail&repo=App-Data-Structure&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="App-Data-Structure"/>
-  </a>
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
